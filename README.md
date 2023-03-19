@@ -1,2 +1,3 @@
 # c.a.oop
-Project indide studies
+Project inside studies
+First OOP project
